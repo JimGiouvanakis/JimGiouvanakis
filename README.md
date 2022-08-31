@@ -31,4 +31,8 @@
 ![](https://komarev.com/ghpvc/?username=JimGiouvanakis&style=flat-square&color=green)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github-readme-stats.vercel.app/api?username=JimGiouvanakis&theme=blue-green&show_icons=true">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://activity-graph.herokuapp.com/graph?username=JimGiouvanakis&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true\">
+
+
 
