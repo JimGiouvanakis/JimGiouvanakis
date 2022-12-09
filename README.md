@@ -21,7 +21,8 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=JimGiouvanakis&theme=blue-green&hide_border=true"></br>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " /> </a></br>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a></br>
-<a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>
+<a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a></br>
+<a href="https:https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt"PHP" src="https://camo.githubusercontent.com/043cf178670996a77ee676c08ffebc44661909c10e09c07a12a287cab3f8e548/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50485026636f6c6f723d373737424234266c6f676f3d504850266c6f676f436f6c6f723d464646464646266c6162656c3d" /></a>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 
