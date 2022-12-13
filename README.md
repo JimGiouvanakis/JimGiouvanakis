@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github-readme-stats.vercel.app/api?username=JimGiouvanakis&theme=blue-green&show_icons=true">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="(https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula">
+
 
 
 
