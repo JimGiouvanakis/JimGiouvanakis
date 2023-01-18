@@ -2,7 +2,7 @@
   <img align="center" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif"/>
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF755&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Jim+Giouvanakis+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
  
  <a href="mailto:dimigiou99@gmail.com" target="_blank" rel="nofollow"> <img alt="Mail" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a></br>
@@ -18,6 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF755&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Languages+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 
+
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=JimGiouvanakis&theme=blue-green&hide_border=true"></br>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " /> </a></br>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a></br>
@@ -28,11 +29,9 @@
 </br>
 ![](https://komarev.com/ghpvc/?username=JimGiouvanakis&style=flat-square&color=green)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github-readme-stats.vercel.app/api?username=JimGiouvanakis&theme=blue-green&show_icons=true">
+![JimGiovanakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgiouvanakis&show_icons=true&theme=merko)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimGiouvanakis&theme=dark">
 
 
 
