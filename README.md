@@ -1,7 +1,7 @@
 
   <img align="center" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif"/>
 </br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JimGiouvanakis &theme=radical)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?JimGiouvanakis= &theme=radical)
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF755&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Jim+Giouvanakis+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
  
