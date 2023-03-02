@@ -25,7 +25,7 @@
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a></br>
 
 🌐 https://jimgiouvanakis.github.io/ 🌐
-<a href="www.google.gr">1</a>
+<button type="button">Click Me!</button>
 </br>
 </br>
 ![](https://komarev.com/ghpvc/?username=JimGiouvanakis&style=flat-square&color=green)
