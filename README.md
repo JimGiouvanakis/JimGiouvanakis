@@ -24,6 +24,8 @@
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a></br>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a></br>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae8eb04e-4820-4aed-bdb3-2f47c7acd07a/deploy-status)](https://app.netlify.com/sites/omnifood-course-site/deploys)
+
 🌐 <a href="https://jimgiouvanakis.github.io/">My site</a> 🌐
 </br>
 </br>
