@@ -24,9 +24,6 @@
 ---
 
 ## 🖥️ Languages
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF755&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Languages+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
-</a>
 <img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
