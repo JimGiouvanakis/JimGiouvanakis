@@ -21,6 +21,7 @@
 
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=JimGiouvanakis&theme=blue-green&hide_border=true"></br>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " /> </a></br>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a></br>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a></br>
