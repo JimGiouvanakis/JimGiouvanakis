@@ -3,7 +3,9 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF755&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Jim+Giouvanakis+%F0%9F
+
  
  <a href="mailto:dimigiou99@gmail.com" target="_blank" rel="nofollow"> <img alt="Mail" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a></br>
 <a href="https://www.linkedin.com/in/jim-giouvanakis-7a6438240/" target="_blank" rel="nofollow"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a></br>
