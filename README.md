@@ -13,7 +13,9 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF755&width=435&lines=%F0%9F%94%A7++Coding+Tools+%F0%9F%94%A7+" alt="Typing SVG" />
+</a>
 
 ## 🔧 Coding Tools
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
