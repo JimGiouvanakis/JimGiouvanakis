@@ -3,7 +3,7 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Me+%F0%9F%92%BB%E2%80%8D%F0%9F%91%A8)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB++Me+%F0%9F%92%BB%E2%80%8D%F0%9F%91%A8)]
 
  
  <a href="mailto:dimigiou99@gmail.com" target="_blank" rel="nofollow"> <img alt="Mail" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a></br>
