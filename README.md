@@ -2,7 +2,7 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 style="color:#45F701;">✉️ Contact Me</h2>
+##Contract Me
 <a href="mailto:dimigiou99@gmail.com" target="_blank" rel="nofollow"> 
   <img alt="Mail" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
