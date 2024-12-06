@@ -44,7 +44,7 @@
 ---
 
 ## 📊 Stats
-![](https://komarev.com/ghpvc/?username=JimGiouvanakis&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=JimGiouvanakis&style=flat-square&color=green)</br>
 ![JimGiovanakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgiouvanakis&show_icons=true&theme=merko)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JimGiouvanakis&theme=blue-green&hide_border=true"></br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimGiouvanakis&theme=dark">
