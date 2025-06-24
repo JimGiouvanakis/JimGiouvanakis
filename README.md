@@ -7,7 +7,7 @@
 <a href="mailto:dimigiou99@gmail.com" target="_blank" rel="nofollow"> 
   <img alt="Mail" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
-<a href="https://www.linkedin.com/in/jim-giouvanakis-7a6438240/" target="_blank" rel="nofollow"> 
+<a href="https://www.linkedin.com/in/dimitris-giouvanakis-7a6438240/" target="_blank" rel="nofollow"> 
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 <a href="https://github.com/JimGiouvanakis/" target="_blank" rel="nofollow"> 
